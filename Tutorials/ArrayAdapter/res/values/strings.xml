@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">simpleCA</string>
+    <string name="person">Usama</string>
+
+    <string-array name="country_array">
+        <item>PAK</item>
+        <item>AUS</item>
+        <item>NWZ</item>
+        <item>W.Indies</item>
+        <item>India</item>
+        <item>IR</item>
+        <item>UAE</item>
+        <item>ZIM</item>
+        <item>BAN</item>
+        <item>SCO</item>
+        <item>SL</item>
+    </string-array>
+
+</resources>
